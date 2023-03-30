@@ -90,7 +90,7 @@ a.btn-border:hover,
 .d_timeline-title:before,
 #selector .sc-opt
 {
-	background:var(--primary-color);
+	background:#ffff00;
 }
 
 
@@ -274,7 +274,7 @@ h3.border,
 
 blockquote,
 .d_timeline-item{
-	border-left-color:var(--primary-color);
+	border-left-color:#ffff00;
 }
 
 h1 .underline,
